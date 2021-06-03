@@ -1,0 +1,14 @@
+
+.sidebar {
+    width: 100;
+    float: left;
+    background-color: rgb(56, 67, 174);
+  }
+  .highlight {
+    color: rgb(212, 172, 11);
+    font-family: 'Gill Sans';
+  }
+  .column {
+    width: 300px;
+    float: right;
+  }
